@@ -19,10 +19,3 @@
          <a href=mailto:leesumin20011103@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:leesumin20011103@gmail.com"> </a>
           </div>
     </div>
-    <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> 
-    <div align= "center"> 
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lssmmn&bg_color=60,000000,00000000&title_color=a8d5ff&text_color=a8d5ff" /> 
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lssmmn&layout=compact&bg_color=60,000000,00000000&title_color=a8d5ff&text_color=a8d5ff" /> 
-    </div> 
-    </div>
