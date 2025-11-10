@@ -6,9 +6,7 @@
     <div style="margin: 0 auto; text-align: center;" align= "center"> 
           <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
           <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
-          <span style="display: inline-flex; align-items: center; background-color: #239120; color: white; padding: 6px 12px; border-radius: 5px; font-weight: bold; font-size: 14px; font-family: 'Segoe UI', sans-serif;">
-            <img src="./images/C#.png.png" height="20" style="margin-right: 8px;" alt="C#"/>C#
-          </span>
+          <img src="./images/C#" height="28" alt="C#">
           <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
           <br/>
           <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white">
